@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1656813051871" clover="3.2.0">
+  <project timestamp="1656813051871" name="All files">
+    <metrics statements="11" coveredstatements="11" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1" elements="14" coveredelements="14" complexity="0" loc="11" ncloc="11" packages="1" files="1" classes="1"/>
+    <file name="selection_sort.js" path="/Users/ivancuenca/Desktop/selectionsort/selection_sort.js">
+      <metrics statements="11" coveredstatements="11" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="3" count="1" type="stmt"/>
+      <line num="5" count="2" type="stmt"/>
+      <line num="7" count="9" type="stmt"/>
+      <line num="9" count="9" type="stmt"/>
+      <line num="11" count="18" type="cond" truecount="2" falsecount="0"/>
+      <line num="12" count="6" type="stmt"/>
+      <line num="16" count="9" type="stmt"/>
+      <line num="19" count="2" type="stmt"/>
+      <line num="22" count="1" type="stmt"/>
+      <line num="27" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
